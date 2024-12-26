@@ -27,5 +27,6 @@ A visual graph has been created to present these statistics in an easily interpr
 
 ## Conclusion
 This analysis provides a detailed view of Manchester United's attacking strength relative to the league. It can inform tactical adjustments, identify areas for improvement, and support transfer decisions.
+
 ![players_comparison](https://github.com/user-attachments/assets/3a40655e-259d-43ac-9ea1-fc6586f330c7)
 
